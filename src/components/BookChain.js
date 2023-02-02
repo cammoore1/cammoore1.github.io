@@ -32,6 +32,7 @@ class BookChain extends React.Component {
         <div className="height-adjuster">
           <div className="project-visual-area">
             <iframe
+              className="iframe-youtube"
               src="https://www.youtube-nocookie.com/embed/xaDdx1ts8sM"
               title="YouTube video player"
               frameborder="0"
