@@ -1,0 +1,46 @@
+.navbar-container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(96, 172, 172);
+  overflow: hidden;
+  height: 80px;
+}
+
+@media (max-width: 700px) {
+  .navbar-container {
+    display: flex;
+    justify-content: space-between;
+    overflow: auto;
+    height: 80px;
+    overflow-y: hidden;
+  }
+}
+
+.navbar-link {
+  margin: 25px 5px 25px 5px;
+  padding: 10px;
+  background-color: rgb(247, 240, 201);
+  border-radius: 10px;
+  color: rgb(119, 124, 45);
+  font-family: Inter;
+  font-weight: bold;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.navbar-link:hover {
+  background-color: bisque;
+}
+
+/* mouse over link */
+.navbar-link:hover {
+  color: rgb(201, 76, 76);
+}
+
+/* selected link */
+.navbar-link:active {
+  color: rgb(156, 156, 156);
+}

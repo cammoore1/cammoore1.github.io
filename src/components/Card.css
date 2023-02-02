@@ -1,0 +1,102 @@
+@font-face {
+  font-family: "NeonRetro";
+  src: local("NeonRetro"),
+    url(../../public/fonts/NeonRetro.otf) format("opentype");
+}
+
+.card-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  height: 0;
+  padding-bottom: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.mouseover-text-container {
+  opacity: 0%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 5;
+  width: 100%;
+  height: 0;
+  padding-top: 100%;
+  transition: opacity 0.5s ease-out;
+}
+
+.mouseover-text-background {
+  opacity: 0%;
+  position: absolute;
+  background-color: white;
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+}
+
+.mouseover-text {
+  z-index: 6;
+  font-family: NeonRetro;
+  font-size: 40pt;
+  color: rgb(131, 5, 114);
+  text-shadow: rgb(153, 53, 140) 0 0 15px;
+}
+
+.card-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transition: filter 0.5s ease-out;
+}
+
+.card-container:hover .card-image {
+  filter: brightness(60%) saturate(300%);
+  transition: filter 0.5s ease-out;
+}
+
+.card-container:hover .mouseover-text-container,
+.mouseover-text {
+  opacity: 100%;
+  transition: opacity 0.5s ease-out;
+}
+
+.card-container:hover .mouseover-text-background {
+  opacity: 80%;
+}
+
+.card-container {
+  background-color: rgb(247, 247, 247);
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px rgb(194, 194, 194);
+  user-select: none;
+}
+
+.card-container:active .card-image,
+.mouseover-text-background {
+  opacity: 70%;
+}
+
+.card-image-filtered {
+  filter: brightness(60%) saturate(300%);
+  transition: filter 0.5s ease-out;
+}
+
+.mouseover-text-container-filtered,
+.mouseover-text-filtered {
+  opacity: 100%;
+  transition: opacity 0.5s ease-out;
+}
+
+.mouseover-text-background-filtered {
+  opacity: 80%;
+}

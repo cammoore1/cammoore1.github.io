@@ -1,0 +1,21 @@
+body {
+  background-image: url("public/Images/websitebackground.png");
+  background-color: rgb(224, 224, 224);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+html,
+body,
+#root,
+#app,
+#app > div {
+  height: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
