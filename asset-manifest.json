@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1fe95225.css",
-    "main.js": "/static/js/main.d7aa9e13.js",
+    "main.css": "/static/css/main.baa667cd.css",
+    "main.js": "/static/js/main.3e152d08.js",
     "static/media/VR-locomotion.png": "/static/media/VR-locomotion.dace0d0a10e6415ffafa.png",
     "static/media/websitebackground.png": "/static/media/websitebackground.f77040b515a12988b449.png",
     "static/media/bookchain.png": "/static/media/bookchain.568f3f043812dfaeefd5.png",
     "static/media/Hike.jpg": "/static/media/Hike.402a8f1a4ff6e3592261.jpg",
     "static/media/space-office.png": "/static/media/space-office.a7e14624819f0973032f.png",
     "static/media/Resume.pdf": "/static/media/Resume.ffd1ce5363831f5937a3.pdf",
-    "static/media/ParadiseGarden.otf": "/static/media/ParadiseGarden.e2760694dda83bed1522.otf",
     "static/media/ford-fulkerson.png": "/static/media/ford-fulkerson.6144687fb38b75c287bf.png",
     "static/media/phenomenal-things.jpg": "/static/media/phenomenal-things.a269e544ed1f4e0dc534.jpg",
     "static/media/NeonRetro.otf": "/static/media/NeonRetro.afac3bd7e948f477065b.otf",
     "static/media/me.jpg": "/static/media/me.8d29b96f26769429eb54.jpg",
     "index.html": "/index.html",
-    "main.1fe95225.css.map": "/static/css/main.1fe95225.css.map",
-    "main.d7aa9e13.js.map": "/static/js/main.d7aa9e13.js.map"
+    "main.baa667cd.css.map": "/static/css/main.baa667cd.css.map",
+    "main.3e152d08.js.map": "/static/js/main.3e152d08.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fe95225.css",
-    "static/js/main.d7aa9e13.js"
+    "static/css/main.baa667cd.css",
+    "static/js/main.3e152d08.js"
   ]
 }
