@@ -21,9 +21,7 @@ class VRLocomotion extends React.Component {
         </a>
         . The project made use of Unity to create and implement 9 different
         techniques in a game-like environment which made use of a repurposed
-        Unity first-person-shooter microgame. The project culminated in a study
-        of 27 participants and the team is currently targetting CHI PLAY 2023
-        for publishing.
+        Unity first-person-shooter microgame.
       </p>
     );
 

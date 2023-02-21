@@ -21,9 +21,7 @@ class PhenomenalThings extends React.Component {
         tells a story of different internet of things (IoT) devices interacting
         with each other in an augmented reality (AR) medium through the
         Microsoft HoloLens. Reality Design Studio members Eric Schoenborn and
-        Esha Thomare primarily led development of the project. This project
-        culminated in a study on multi-user interaction in an augmented reality
-        setting.
+        Esha Thomare primarily led development of the project.
       </p>
     );
 
