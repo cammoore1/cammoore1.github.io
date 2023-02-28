@@ -7,6 +7,7 @@ import vrLocomotion from "../public/Images/VR-locomotion.png";
 import phenomenalThings from "../public/Images/phenomenal-things.jpg";
 import bookChain from "../public/Images/bookchain.png";
 import Toggle from "react-toggle";
+import birds from "../public/Images/TransparentBirdLanding.png";
 
 class Grid extends React.Component {
   constructor(props) {
@@ -33,6 +34,13 @@ class Grid extends React.Component {
             </div>
           </div>
           <div className="grid">
+            <Card
+              text="Transparent Image Collage"
+              img={birds}
+              alt="Implementation of a transparent image collage maker."
+              link="transparent-collage"
+              highlighted={this.state.highlighted}
+            ></Card>
             <Card
               text="Virtual Reality Locomotion"
               img={vrLocomotion}

@@ -10,6 +10,7 @@ import VRLocomotion from "./components/VRLocomotion";
 import PhenomenalThings from "./components/PhenomenalThings";
 import BookChain from "./components/BookChain";
 import Resume from "./components/Resume";
+import TransparentCollage from "./components/TransparentCollage";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
             />
             <Route path="projects/bookchain" element={<BookChain />} />
             <Route path="projects/resume" element={<Resume />} />
+            <Route path="projects/transparent-collage" element={<TransparentCollage />} />
           </Routes>
         </div>
       </div>
