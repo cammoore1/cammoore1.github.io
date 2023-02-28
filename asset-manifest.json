@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.baa667cd.css",
-    "main.js": "/static/js/main.71483dd9.js",
+    "main.css": "/static/css/main.51df3def.css",
+    "main.js": "/static/js/main.d251467f.js",
+    "static/media/serendipkitty.png": "/static/media/serendipkitty.8b4d653a3843d90386bc.png",
     "static/media/VR-locomotion.png": "/static/media/VR-locomotion.dace0d0a10e6415ffafa.png",
+    "static/media/cardinal.jpg": "/static/media/cardinal.fd198a68d8874809d147.jpg",
     "static/media/websitebackground.png": "/static/media/websitebackground.f77040b515a12988b449.png",
     "static/media/bookchain.png": "/static/media/bookchain.568f3f043812dfaeefd5.png",
     "static/media/Hike.jpg": "/static/media/Hike.402a8f1a4ff6e3592261.jpg",
     "static/media/space-office.png": "/static/media/space-office.a7e14624819f0973032f.png",
+    "static/media/smalldoggy.jpg": "/static/media/smalldoggy.f1738e6aa5de393c1b29.jpg",
     "static/media/Resume.pdf": "/static/media/Resume.ffd1ce5363831f5937a3.pdf",
+    "static/media/bungoose.jpg": "/static/media/bungoose.8b8279498b3c3bffad2b.jpg",
     "static/media/ford-fulkerson.png": "/static/media/ford-fulkerson.6144687fb38b75c287bf.png",
     "static/media/phenomenal-things.jpg": "/static/media/phenomenal-things.a269e544ed1f4e0dc534.jpg",
     "static/media/NeonRetro.otf": "/static/media/NeonRetro.afac3bd7e948f477065b.otf",
+    "static/media/cricket.jpg": "/static/media/cricket.e241d0dfcaabdf6b350d.jpg",
     "static/media/me.jpg": "/static/media/me.8d29b96f26769429eb54.jpg",
+    "static/media/TransparentDiamondsBackground.png": "/static/media/TransparentDiamondsBackground.629b3e6408c117440c0e.png",
+    "static/media/TransparentBirdLanding.png": "/static/media/TransparentBirdLanding.2bc3a42d26416c1862bf.png",
     "index.html": "/index.html",
-    "main.baa667cd.css.map": "/static/css/main.baa667cd.css.map",
-    "main.71483dd9.js.map": "/static/js/main.71483dd9.js.map"
+    "main.51df3def.css.map": "/static/css/main.51df3def.css.map",
+    "main.d251467f.js.map": "/static/js/main.d251467f.js.map"
   },
   "entrypoints": [
-    "static/css/main.baa667cd.css",
-    "static/js/main.71483dd9.js"
+    "static/css/main.51df3def.css",
+    "static/js/main.d251467f.js"
   ]
 }
