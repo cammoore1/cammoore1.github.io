@@ -21,7 +21,11 @@ class VRLocomotion extends React.Component {
         </a>
         . The project made use of Unity to create and implement 9 different
         techniques in a game-like environment which made use of a repurposed
-        Unity first-person-shooter microgame.
+        Unity first-person-shooter microgame. This project culminated in a study published 
+        in the ACM Virtual Reality Software and Technology (VRST) available <a
+          className="project-link"
+          href="https://dl.acm.org/doi/10.1145/3611659.3615711"
+        >here</a>.
       </p>
     );
 
