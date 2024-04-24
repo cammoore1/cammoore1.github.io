@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.51df3def.css",
-    "main.js": "/static/js/main.d251467f.js",
+    "main.css": "/static/css/main.619c1b40.css",
+    "main.js": "/static/js/main.d6225c35.js",
     "static/media/serendipkitty.png": "/static/media/serendipkitty.8b4d653a3843d90386bc.png",
     "static/media/VR-locomotion.png": "/static/media/VR-locomotion.dace0d0a10e6415ffafa.png",
     "static/media/cardinal.jpg": "/static/media/cardinal.fd198a68d8874809d147.jpg",
@@ -16,15 +16,15 @@
     "static/media/phenomenal-things.jpg": "/static/media/phenomenal-things.a269e544ed1f4e0dc534.jpg",
     "static/media/NeonRetro.otf": "/static/media/NeonRetro.afac3bd7e948f477065b.otf",
     "static/media/cricket.jpg": "/static/media/cricket.e241d0dfcaabdf6b350d.jpg",
-    "static/media/me.jpg": "/static/media/me.8d29b96f26769429eb54.jpg",
     "static/media/TransparentDiamondsBackground.png": "/static/media/TransparentDiamondsBackground.629b3e6408c117440c0e.png",
     "static/media/TransparentBirdLanding.png": "/static/media/TransparentBirdLanding.2bc3a42d26416c1862bf.png",
+    "static/media/me.jpg": "/static/media/me.157db200911a08b90efa.jpg",
     "index.html": "/index.html",
-    "main.51df3def.css.map": "/static/css/main.51df3def.css.map",
-    "main.d251467f.js.map": "/static/js/main.d251467f.js.map"
+    "main.619c1b40.css.map": "/static/css/main.619c1b40.css.map",
+    "main.d6225c35.js.map": "/static/js/main.d6225c35.js.map"
   },
   "entrypoints": [
-    "static/css/main.51df3def.css",
-    "static/js/main.d251467f.js"
+    "static/css/main.619c1b40.css",
+    "static/js/main.d6225c35.js"
   ]
 }
