@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.619c1b40.css",
-    "main.js": "/static/js/main.d6225c35.js",
+    "main.js": "/static/js/main.bb0b4242.js",
     "static/media/serendipkitty.png": "/static/media/serendipkitty.8b4d653a3843d90386bc.png",
     "static/media/VR-locomotion.png": "/static/media/VR-locomotion.dace0d0a10e6415ffafa.png",
     "static/media/cardinal.jpg": "/static/media/cardinal.fd198a68d8874809d147.jpg",
@@ -21,10 +21,10 @@
     "static/media/me.jpg": "/static/media/me.157db200911a08b90efa.jpg",
     "index.html": "/index.html",
     "main.619c1b40.css.map": "/static/css/main.619c1b40.css.map",
-    "main.d6225c35.js.map": "/static/js/main.d6225c35.js.map"
+    "main.bb0b4242.js.map": "/static/js/main.bb0b4242.js.map"
   },
   "entrypoints": [
     "static/css/main.619c1b40.css",
-    "static/js/main.d6225c35.js"
+    "static/js/main.bb0b4242.js"
   ]
 }
